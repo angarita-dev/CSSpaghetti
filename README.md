@@ -13,7 +13,7 @@ $ git fork git@github.com:codingAngarita/CSSpaghetti.git
 $ sass style.scss style.css
 ```
 
-### CSSpaghetti example page
+## CSSpaghetti example page
 Here is a link to a [repo](https://github.com/codingAngarita/CSSpaghetti-example) that uses the CSSpaghetti framework and a [live version](https://raw.githack.com/codingAngarita/CSSpaghetti-example/master/index.html) of it.
 
 ![CSSpaghetti-example](https://raw.githubusercontent.com/codingAngarita/CSSpaghetti-example/master/resources/full-page-pic.png)
